@@ -25,7 +25,7 @@ namespace Provider {
         /**
          * Retrieves the current weather for the specified location.
          * @param location The location for which to retrieve the weather.
-         * @returns An  array.
+         * @returns An array.
          */
         current(location: Location): [] {
             return [];
